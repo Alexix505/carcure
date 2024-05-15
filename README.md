@@ -1,0 +1,3 @@
+<h1>CarCure: </h1><br>
+CarCure is a comprehensive digital platform designed to revolutionize the automotive repair and maintenance industry by connecting car owners with certified mechanics. This repository contains the codebase for the CarCure mobile application (Android || iOS).
+CarCure aims to bridge the gap between car owners and mechanics, offering a user-friendly interface for users to book appointments, communicate with mechanics, and access transparent and reliable automotive services. This project is developed using Flutter for the frontend, Django for the backend, and leverages various technologies to deliver an intuitive and efficient platform.
